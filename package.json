@@ -33,7 +33,7 @@
         "ViewerJS_release": "git://github.com/kogmbh/ViewerJS_release.git",
         "admin-lte": "~2.3.11",
         "autosize": "^3.0.21",
-        "bootstrap": "^3.3.7",
+        "bootstrap" "~> 4.1.2",
         "bootstrap-colorpicker": "^2.5.1",
         "bootstrap-daterangepicker": "^2.1.25",
         "chart.js": "^2.7.0",
